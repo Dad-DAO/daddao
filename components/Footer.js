@@ -4,7 +4,8 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        Made with <img src="/netliheart.svg" alt="Netlify Logo" className={styles.logo} /> for you
+      Made by Broke <img src="/broke.svg" alt="Broke logo" className={styles.logo} 
+        /> for Dads
       </footer>
     </>
   )
