@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="DAD DAO" />
         <p className="description">
         Get started by joining the Discord @ https://discord.gg/MBxGXSuGyp
         </p>
