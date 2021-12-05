@@ -12,7 +12,9 @@ export default function Home() {
 
       <main>
         <Header title="DAD DAO" />
+        <img src="/dad.png" alt="Dad image"/>
         <p className="description">
+        
         Get started by joining the <a href="https://discord.gg/MBxGXSuGyp">Discord</a>
         </p>
       </main>
