@@ -16,21 +16,20 @@ export default function Home() {
         <p className="description">
         Get started by joining the <a href="https://discord.gg/MBxGXSuGyp">Discord</a>
         </p>
-
-        <h3>Core Team</h3>
-        <div class ="row">
-          <div class="column">
-            <img src="/dee.png" alt="Dee" class="coreteam"/>
-          </div>
-          <div class="column">
-            <img src="/corey.png" alt="Corey" class="coreteam"/>
-          </div>
-          <div class="column">
-            <img src="/broke2.png" alt="Broke" class="coreteam"/>
+      </main>
+      <div class = "above_footer">
+          <div class ="row">
+            <div class="column">
+              <img src="/dee.png" alt="Dee" class="coreteam"/>
+            </div>
+            <div class="column">
+              <img src="/corey.png" alt="Corey" class="coreteam"/>
+            </div>
+            <div class="column">
+              <img src="/broke2.png" alt="Broke" class="coreteam"/>
+            </div>
           </div>
         </div>
-      </main>
-
       <Footer />
     </div>
   )
