@@ -40,6 +40,11 @@ main {
   padding: 5px;
 }
 
+.above_footer {
+  position: absolute;
+  bottom: 0px;
+}
+
 /* Clear floats after image containers */
 .row::after {
   content: "";
