@@ -17,7 +17,7 @@ export default function Home() {
         Get started by joining the <a href="https://discord.gg/MBxGXSuGyp">Discord</a>
         </p>
 
-        <h1>Core Team</h1>
+        <h3>Core Team</h3>
         <div class ="row">
           <div class="column">
             <img src="/dee.png" alt="Dee" class="coreteam"/>
