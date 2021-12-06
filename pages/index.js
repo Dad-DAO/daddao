@@ -11,6 +11,7 @@ export default function Home() {
       </Head>
       <main>
         <Header title="DAD DAO" />
+        <h5>A Multi-chain Community built on Algorand"</h5>
         <img src="/dadgifsite.gif" alt="Dad NFTs" class="center"/>
         <p className="description">
         Join the <a href="https://discord.gg/MBxGXSuGyp">Discord</a>
