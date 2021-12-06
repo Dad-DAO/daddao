@@ -18,11 +18,9 @@ export default function Home() {
         </p>
 
         <h1>Core Team</h1>
-        <div className="container">
         <img src="/dee.png" alt="Dee" class="coreteam"/>
         <img src="/corey.png" alt="Corey" class="coreteam"/>
         <img src="/broke.png" alt="Broke" class="coreteam"/>
-        </div>
       </main>
 
       <Footer />
