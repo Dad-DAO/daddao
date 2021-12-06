@@ -26,7 +26,7 @@ export default function Home() {
             <img src="/corey.png" alt="Corey" class="coreteam"/>
           </div>
           <div class="column">
-            <img src="/broke.png" alt="Broke" class="coreteam"/>
+            <img src="/broke2.png" alt="Broke" class="coreteam"/>
           </div>
         </div>
       </main>
