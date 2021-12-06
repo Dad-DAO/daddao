@@ -18,9 +18,17 @@ export default function Home() {
         </p>
 
         <h1>Core Team</h1>
-        <img src="/dee.png" alt="Dee" class="coreteam"/>
-        <img src="/corey.png" alt="Corey" class="coreteam"/>
-        <img src="/broke.png" alt="Broke" class="coreteam"/>
+        <div class ="row">
+          <div class="column">
+            <img src="/dee.png" alt="Dee" class="coreteam"/>
+          </div>
+          <div class="column">
+            <img src="/corey.png" alt="Corey" class="coreteam"/>
+          </div>
+          <div class="column">
+            <img src="/broke.png" alt="Broke" class="coreteam"/>
+          </div>
+        </div>
       </main>
 
       <Footer />
