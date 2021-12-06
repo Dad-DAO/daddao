@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
       <main>
         <Header title="DAD DAO" />
-        <h3>A Multi-chain Community</h3>
+        <h3>A Multi-chain Community Incubator</h3>
         <h5>Built on Algorand</h5>
         <img src="/dadgifsite.gif" alt="Dad NFTs" class="center"/>
         <p className="description">
