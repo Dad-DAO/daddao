@@ -9,7 +9,6 @@ export default function Home() {
         <title>DAD DAO</title>
         <link rel="icon" href="/santahat.ico" />
       </Head>
-
       <main>
         <Header title="DAD DAO" />
         <img src="/dadgifsite.gif" alt="Dad NFTs" class="center"/>
@@ -17,19 +16,6 @@ export default function Home() {
         Get started by joining the <a href="https://discord.gg/MBxGXSuGyp">Discord</a>
         </p>
       </main>
-      <div class = "above_footer">
-          <div class ="row">
-            <div class="column">
-              <img src="/dee.png" alt="Dee" class="coreteam"/>
-            </div>
-            <div class="column">
-              <img src="/corey.png" alt="Corey" class="coreteam"/>
-            </div>
-            <div class="column">
-              <img src="/broke2.png" alt="Broke" class="coreteam"/>
-            </div>
-          </div>
-        </div>
       <Footer />
     </div>
   )
