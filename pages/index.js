@@ -12,7 +12,8 @@ export default function Home() {
       <main>
         <Header title="DAD DAO" />
         <h3>A Multi-chain Community Incubator</h3>
-        <h5>Built on Algorand</h5>
+        <h5>"A pension for Dads."</h5>
+        <h7>Built on Algorand</h7>
         <img src="/dadgifsite.gif" alt="Dad NFTs" class="center"/>
         <p className="description">
         Join the <a href="https://discord.gg/MBxGXSuGyp">Discord</a>
