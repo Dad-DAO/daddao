@@ -229,6 +229,10 @@ What company am I buying from?
 ## DAD DAO Miro
 ### https://miro.com/app/board/o9J_lil83C4=/
 
+## Discord NFT-As-Access
+### https://hackmd.io/92TGGR7jR5mDb9K-QZSj0g?view
+
+
 Tokenomics
 
 20% - Distribution to Team (1-year cliff, 4-yr vesting period)
