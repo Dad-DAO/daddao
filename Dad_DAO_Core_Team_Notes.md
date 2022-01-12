@@ -224,14 +224,16 @@ What company am I buying from?
 # Important Documents
 
 ## DAO Constitution
-### https://hackmd.io/7LKe7QU8Tyum8CjrVi8eyA
+### https://hackmd.io/@Broke/B1vFkPb_F
 
 ## DAD DAO Miro
 ### https://miro.com/app/board/o9J_lil83C4=/
 
 ## Discord NFT-As-Access
-### https://hackmd.io/92TGGR7jR5mDb9K-QZSj0g?view
+### https://hackmd.io/@Broke/BkOKdj2nY
 
+## Discord Early Mint Instructions
+### https://hackmd.io/@Broke/SJibq2hhY
 
 Tokenomics
 
