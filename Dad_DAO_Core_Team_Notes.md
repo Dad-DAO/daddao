@@ -194,6 +194,31 @@ The secondary market of the NFT could tank and the value of the NFT in USD could
 
 What company am I buying from?
 
+## 1/03/2022
+(Fill out what was done this week)
+
+
+## 1/10/2022
+(Fill out what was done this week)
+
+## 1/17/2022
+Meetings Minutes:
+-Min/max of # of NFTs we need to create
+Can we put everything into one Dad DAO NFT? (We probably want a minimum of 2 - Dad DAO NFT and Working Group Roles NFT)
+Figure out organization of internals of NFTs. Maximum amount of data for least amount of NFTs.
+Once a core team has been created, adding people, do you allow other types of people to see that core team's channels? Do you give them NFT-based permissions based on giving deeper scope? Is this a way to generate income for this project? Does Dad DAO Treasury get a cut of this?
+How does Nouns deal w/ gaming the ability to create proposals to extract funding without any activity checks on whether the funding is being used properly or if people are actively contributing/people part of the project are performing their roles properly?
+How do you make sure a project isn't scamming you?
+Figure out if we want to go through minting of the role NFTs like 8 NFTs vs 1 NFT Working Group Role w/ Role metadata.
+Get Role NFTs created for Michael to use to check whether role is there. Create another set of 8 roles for NFTs. (Researching)
+> Jessie's Response: Metadata on ASA assets is immutable post-creation. I thought the Manager address could reconfigure this parameter but it appears not.
+> ![](https://i.imgur.com/NwAJbmY.png)
+>It's a 32-Byte hash btw.
+We CAN however use the 'note' parameter in lieu of the metadata parameter and it is a FAT 1024 Bytes compared to the 32 Byte metadata hash parameter lol. We won't run out of space for a while if we roll all the roles, teams, projects, etc. all up into the note space of the Dad DAO NFT. I'll map out possible usage of different sections of the bytes for everything. 
+Otherwise, we have two additional options: use the freeze function and give a 'role' parameter via normal web2 means of UI to allow role selection and storing the return of that input in the database, OR we can do it fully in the blockchain (at user cost) of creating 8 Role reserve addresses that they can either "fake lock-up" (essentially using the note parameter to say X asset w/ ASA ID in Y amount is promised to not move - like the way Algorand Governance works) or real lock-up by re-keying control (see the way AlgoFi does things) their Working Group Role NFT (otherwise known as the 'Role NFT' which can be specified to select one of 8 Roles per our conversation in the meeting) to the reserve address associated with the role they want.
+
+~~Create 2 distinct role NFTs.~~ (Done)
+
 # Ideas
 
 ## NFT Permissions
@@ -224,16 +249,13 @@ What company am I buying from?
 # Important Documents
 
 ## DAO Constitution
-### https://hackmd.io/@Broke/B1vFkPb_F
+### https://hackmd.io/7LKe7QU8Tyum8CjrVi8eyA
 
 ## DAD DAO Miro
 ### https://miro.com/app/board/o9J_lil83C4=/
 
 ## Discord NFT-As-Access
-### https://hackmd.io/@Broke/BkOKdj2nY
-
-## Discord Early Mint Instructions
-### https://hackmd.io/@Broke/SJibq2hhY
+### https://hackmd.io/92TGGR7jR5mDb9K-QZSj0g?view
 
 Tokenomics
 
