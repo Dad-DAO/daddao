@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
       <main>
         <img src="/daddaologo.svg" alt="Dad DAO logo" class="logo"/>
-        <h3 class="slogan">A NFT-Gated Learning Community and DApp Incubator</h3>
+        <h3 class="slogan">NFT-Gated Learning Community and DApp Incubator</h3>
         <img src="/builtonalgo.svg" alt="Dad DAO Quote" class="imagesmall"/>
         <br></br>
         <a href="https://discord.gg/MBxGXSuGyp">Join the Discord</a>
