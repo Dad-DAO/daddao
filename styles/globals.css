@@ -87,13 +87,14 @@ code {
 
 .slogan {
   display: block;
-  font-size: 1.75vw;
+  font-size: 1em;
   margin-left: auto;
-  margin-right: auto
+  margin-right: auto;
 }
 
 .logo {
   display: block;
   margin-left: auto;
-  margin-right: auto
+  margin-right: auto;
+  width:30vh;
 }
