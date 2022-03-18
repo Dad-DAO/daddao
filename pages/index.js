@@ -11,13 +11,12 @@ export default function Home() {
       </Head>
       <main>
         <img src="/daddaologo.svg" alt="Dad DAO logo" class="logo"/>
-        <h3 class="slogan">A Learning Community and DApp Incubator</h3>
+        <h3 class="slogan">A NFT-Gated Learning Community and DApp Incubator</h3>
+        <img src="/builtonalgo.svg" alt="Dad DAO Quote" class="imagesmall"/>
         <br></br>
         <a href="https://discord.gg/MBxGXSuGyp">Join the Discord</a>
         <br></br>
         <a href="https://docs.google.com/document/d/1f0jsi-Cu2qfEliEvdbHGi9t957cE1C4tAYgXhRqC1mw/edit">Project Directory</a>
-        <br></br>
-        <img src="/builtonalgo.svg" alt="Dad DAO Quote" class="imagesmall"/>
         <br></br>
         <img src="/dadgifsite.gif" alt="Dad NFTs" class="imagemedium"/>
       </main>
