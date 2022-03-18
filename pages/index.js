@@ -17,8 +17,9 @@ export default function Home() {
         <br></br>
         <a href="https://docs.google.com/document/d/1f0jsi-Cu2qfEliEvdbHGi9t957cE1C4tAYgXhRqC1mw/edit">Project Directory</a>
         <br></br>
-        <img src="/dadgifsite.gif" alt="Dad NFTs" class="imagemedium"/>
         <img src="/builtonalgo.svg" alt="Dad DAO Quote" class="imagesmall"/>
+        <br></br>
+        <img src="/dadgifsite.gif" alt="Dad NFTs" class="imagemedium"/>
       </main>
       <Footer />
     </div>
