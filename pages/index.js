@@ -16,11 +16,11 @@ export default function Home() {
         <br></br>
         <img src="/quote.png" alt="Dad DAO Quote" class="imagemedium"/>
         <br></br>
-        
         <br></br>
         <a href="https://discord.gg/MBxGXSuGyp">Join the Discord</a>
         <br></br>
         <a href="https://docs.google.com/document/d/1f0jsi-Cu2qfEliEvdbHGi9t957cE1C4tAYgXhRqC1mw/edit">Project Directory</a>
+        <br></br>
       </main>
       <Footer />
     </div>
