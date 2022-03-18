@@ -16,7 +16,7 @@ export default function Home() {
         <img src="/dadgifsite.gif" alt="Dad NFTs" class="center"/>
         <p className="description">
         <p>Dad DAO Project Directory</p>
-        <p><br></p>
+        <p><br></br></p>
         <p>Contacts</p>
         <p>Broke#2219 (Core - Generalist)</p>
         <p>Fergulati#5080 (Core - Business Dev)</p>
@@ -27,14 +27,14 @@ export default function Home() {
         <p>vlawmz#1337 (Freelance Developer)</p>
         <p>Ken Berey#1598 (Freelance Marketing)</p>
         <p>Frances#3341(Freelance Marketing)</p>
-        <p><br></p>
-        <p><br></p>
+        <p><br></br></p>
+        <p><br></br></p>
         <p>Socials</p>
         <p><a href="https://discord.gg/MBxGXSuGyp">https://discord.gg/MBxGXSuGyp</a> - Dad DAO Discord</p>
         <p><a href="https://twitter.com/ThedaddaoDad">https://twitter.com/ThedaddaoDad</a> - Official Twitter</p>
         <p><a href="https://www.reddit.com/r/DADDAO/">https://www.reddit.com/r/DADDAO/</a> - Official Reddit</p>
-        <p><br></p>
-        <p><br></p>
+        <p><br></br></p>
+        <p><br></br></p>
         <p>Important Links for Dad DAO Project</p>
         <p><a href="http://www.daddao.org">www.DadDAO.org</a> (Project Landing Page)</p>
         <p><a href="http://www.github.com/Dad-DAO">www.github.com/Dad-DAO</a> - Repository with Projects (Public/Private Repos)</p>
