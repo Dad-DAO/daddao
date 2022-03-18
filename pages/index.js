@@ -12,7 +12,7 @@ export default function Home() {
       <main>
         <img src="/daddaologo.svg" alt="Dad DAO logo" class="imagelarge"/>
         <br></br>
-        <h1>A Learning Community and DApp Incubator</h1>
+        <h1 class="slogan">A Learning Community and DApp Incubator</h1>
         <br></br>
         <a href="https://discord.gg/MBxGXSuGyp">Join the Discord</a>
         <br></br>
