@@ -66,3 +66,24 @@ code {
   justify-content: center;
   align-items: center;
 }
+
+.imagesmall {
+  display: inline;
+  margin-left: auto;
+  margin-right: auto;
+  width:20%;
+}
+
+.imagemedium {
+  display: inline;
+  margin-left: auto;
+  margin-right: auto;
+  width:60%;
+}
+
+.imagelarge {
+  display: inline;
+  margin-left: auto;
+  margin-right: auto;
+  width:100%;
+}

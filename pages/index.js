@@ -10,10 +10,13 @@ export default function Home() {
         <link rel="icon" href="/santahat.ico" />
       </Head>
       <main>
-        <Header title="DAD DAO" />
-        <h3>Community Learning and DApp Incubation</h3>
-        <h5>Built on Algorand</h5>
+        <img src="/daddaowhole.PNG" alt="Dad DAO logo" class="imagelarge"/>
+        <br></br>
         <img src="/dadgifsite.gif" alt="Dad NFTs" class="center"/>
+        <br></br>
+        <img src="/quote.png" alt="Dad DAO Quote" class="imagemedium"/>
+        <br></br>
+        
         <br></br>
         <a href="https://discord.gg/MBxGXSuGyp">Join the Discord</a>
         <br></br>
