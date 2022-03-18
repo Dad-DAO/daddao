@@ -19,7 +19,7 @@ export default function Home() {
         <a href="https://docs.google.com/document/d/1f0jsi-Cu2qfEliEvdbHGi9t957cE1C4tAYgXhRqC1mw/edit">Project Directory</a>
         <br></br>
         <img src="/newdadgif.gif" alt="Dad NFTs" class="imagemedium"/>
-        <a class="wgmi" href="https://www.youtube.com/watch?v=-EVEf8-SSvQ">"We're all gonna make it brah." </a>
+        <a class="wgmi" href="https://www.youtube.com/watch?v=AdBoybKnzZw">"We're all gonna make it brah." </a>
       </main>
       <Footer />
     </div>
