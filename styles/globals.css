@@ -90,6 +90,7 @@ code {
   font-size: 1em;
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
 }
 
 .logo {
@@ -101,4 +102,14 @@ code {
 
 .wgmi {
   color: white;
+}
+
+.cursorcustom {
+  /* The second value here is a fallback. */
+  cursor: url(/my-cursor.png), auto;
+
+  /* You may need coordinates to adjust the pointer
+     for example, the custom cursor is circular and you want
+     the middle to be where you click */
+  cursor: url(/corey.png) 15 15, move;
 }

@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-      Made by Broke <img src="/broke.svg" alt="Broke logo" className={styles.logo} 
+      Made by all of us <img src="/broke.svg" alt="Broke logo" className={styles.logo} 
         /> for Dads
         
       </footer>
